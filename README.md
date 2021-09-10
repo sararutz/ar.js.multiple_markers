@@ -1,6 +1,6 @@
 
 
-using ar.js with multiple markers to display multiple 3D models within the same ar experience
+using ar.js with multiple markers to display multiple 3D models within the same ar experience. (ar.js: https://ar-js-org.github.io/AR.js-Docs/) 
 
 ## project title: COMPUTER VISION, THE BLIND MEN AND THE ELEPHANT.
 
