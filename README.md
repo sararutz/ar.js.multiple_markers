@@ -1,3 +1,5 @@
+scan this code with your phone: 
+![qr-code](https://user-images.githubusercontent.com/87545114/132955841-9d3acaa9-a2a3-4b7b-88ea-86622ceae77c.png)
 
 
 https://user-images.githubusercontent.com/87545114/132954396-9b688463-51c0-4bca-a466-34799464fb5f.mov
